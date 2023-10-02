@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\AllMeasurementsFromLocoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\CompanyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\EmployeeSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\EntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\PostForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ResistancePlotForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
